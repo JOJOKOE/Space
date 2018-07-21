@@ -13,6 +13,8 @@
 		844BBE3920FB3F2500C85608 /* ____.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 844BBE3720FB3F2500C85608 /* ____.xcdatamodeld */; };
 		844BBE3B20FB3F3200C85608 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 844BBE3A20FB3F3200C85608 /* Assets.xcassets */; };
 		844BBE3E20FB3F3200C85608 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 844BBE3C20FB3F3200C85608 /* LaunchScreen.storyboard */; };
+		844BBE4820FB467F00C85608 /* 下載.png in Resources */ = {isa = PBXBuildFile; fileRef = 844BBE4720FB467F00C85608 /* 下載.png */; };
+		844F3FA12103137500B6788A /* images (1).png in Resources */ = {isa = PBXBuildFile; fileRef = 844F3FA02103137500B6788A /* images (1).png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		844BBE3A20FB3F3200C85608 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		844BBE3D20FB3F3200C85608 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		844BBE3F20FB3F3200C85608 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		844BBE4720FB467F00C85608 /* 下載.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "下載.png"; path = "../../下載.png"; sourceTree = "<group>"; };
+		844F3FA02103137500B6788A /* images (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "images (1).png"; path = "../../images (1).png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,8 @@
 		844BBE2F20FB3F2500C85608 /* 火星調色 */ = {
 			isa = PBXGroup;
 			children = (
+				844F3FA02103137500B6788A /* images (1).png */,
+				844BBE4720FB467F00C85608 /* 下載.png */,
 				844BBE3020FB3F2500C85608 /* AppDelegate.swift */,
 				844BBE3220FB3F2500C85608 /* ViewController.swift */,
 				844BBE3420FB3F2500C85608 /* Main.storyboard */,
@@ -126,8 +132,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				844BBE3E20FB3F3200C85608 /* LaunchScreen.storyboard in Resources */,
+				844BBE4820FB467F00C85608 /* 下載.png in Resources */,
 				844BBE3B20FB3F3200C85608 /* Assets.xcassets in Resources */,
 				844BBE3620FB3F2500C85608 /* Main.storyboard in Resources */,
+				844F3FA12103137500B6788A /* images (1).png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
